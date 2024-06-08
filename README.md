@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Fernando!
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React Native and Python
 - 📫 Reach me at https://www.linkedin.com/in/fernandocucci
 
 <!---
